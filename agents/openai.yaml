@@ -1,0 +1,7 @@
+interface:
+  display_name: "生活 SOP"
+  short_description: "帮助年轻人建立可持续、可复盘的个人生活操作系统与执行清单"
+  default_prompt: "Use $life-sop 帮我建立一套适合当前阶段的个人生活 SOP。"
+
+policy:
+  allow_implicit_invocation: true
